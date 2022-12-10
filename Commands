@@ -14,7 +14,7 @@ public class Commands extends ListenerAdapter{
 	
 	Useer user = new Useer();
 	
-	String muayt = new Jwiki("muay thai").getExtractText();
+	
 	
 	Sport american = new Sport("American Football",new Jwiki("american football").getExtractText());
 	Sport rugby = new Sport("Rugby",new Jwiki("rugby union").getExtractText());
