@@ -1,4 +1,4 @@
-# SportsBot
+# SportsCoach
 SportsCoach is a chatbot that intends to find a sport that suits your specify preferences and physical characteristics. 
 
 The project consists of five classes:
