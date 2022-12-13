@@ -1,4 +1,5 @@
 # SportsBot
+SportsCoach is a chatbot that intends to find a sport that suits your specify preferences and physical characteristics. 
 
 The project consists of five classes:
 
@@ -19,8 +20,8 @@ The User interaction interface is through discord, the program connects to a spe
 The topics are sports recommendations, training, and diet.
 
 APIs:
+
 Discord Api->The chatbot operates on a discord server.
 
 Jwiki -> When typed ~NameofSport the chatbot sends a brief summary of the sport from wikipedia, and also does it once the sport is selected.
 
-(For the TA to evaluate the chatbot, we have to add them to a discord chat and give them the token for the bot, which can not be published on github)
